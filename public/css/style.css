@@ -1,0 +1,81 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+
+
+body {
+    background-image: url('/assets/hero.png');
+    /* background-repeat: repeat-x; */
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}   
+
+/* header {
+    margin-bottom: 0px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #C0A172;
+    color: cornsilk;
+} */
+
+
+/* .navbar {
+    position: relative;
+    min-height: 50px;
+    display: block;
+    margin-bottom: 0;
+    background-color: #664640;
+    border-width: 1px 0 1px 0;
+    border-color: #453823;
+    border-radius: 0;
+} */
+
+
+button {
+    font-family: inherit;
+    background: whitesmoke;
+    border: 8px #423629 solid;
+    margin: 20px;
+    padding: 5px;
+}
+
+li {
+    /* background-color: aqua; */
+    display: inline;
+}
+
+img {
+    height: 30%;
+    width: 30%;
+}
+
+.pet-list__item {
+    display: inline;
+}
+
+.jumbotron{
+    background-color: #653400;
+}
+.navbar {
+    background-color: #5a3b19;
+}
+
+.display-4 {
+    -webkit-text-fill-color: white;
+    text-decoration: underline;
+}
+p {
+    -webkit-text-fill-color: white;
+}
+.heart {
+    -webkit-animation-fill-color: red;
+    font-size: 20px;
+    background: red;
+    transform: scale(.5, 1);
+}
+
+/* .card-group {
+    display: flex;
+} */

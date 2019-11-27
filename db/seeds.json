@@ -1,0 +1,110 @@
+[
+  {
+    "img": "/assets/Pup00.jpg",
+    "breed": "American Eskimo",
+    "sex": "Female",
+    "color": "White",
+    "age": 2,
+    "tagNumber": "T150",
+    "birthDate": "09/16/2017",
+    "arrivalDate": "11/19/2017",
+    "availability": "In Stock",
+    "price": 1200
+  },
+  {
+    "img": "/assets/Pup01.jpg",
+    "breed": "Bichon Frise",
+    "sex": "Female",
+    "color": "White",
+    "age": 2,
+    "tagNumber": "T151",
+    "birthDate": "09/02/2017",
+    "arrivalDate": "11/05/2017",
+    "availability": "In Stock",
+    "price": 1500
+  },
+  {
+    "img": "/assets/Pup02.jpg",
+    "breed": "Boston Terrier",
+    "sex": "Female",
+    "color": "Black",
+    "age": 1,
+    "tagNumber": "T152",
+    "birthDate": "09/04/2018",
+    "arrivalDate": "11/05/2018",
+    "availability": "In Stock",
+    "price": 2000
+  },
+  {
+    "img": "/assets/Pup03.jpg",
+    "breed": "Cavalier King Charle",
+    "sex": "Male",
+    "color": "Blenheim",
+    "age": 1,
+    "tagNumber": "T153",
+    "birthDate": "08/15/2018",
+    "arrivalDate": "11/12/2019",
+    "availability": "In Stock",
+    "price": 3000
+  },
+  {
+    "img": "/assets/Pup04.jpg",
+    "breed": "French Bulldog",
+    "sex": "Female",
+    "color": "Blue",
+    "age": 1,
+    "tagNumber": "T154",
+    "birthDate": "08/26/2019",
+    "arrivalDate": "10/19/2019",
+    "availability": "In Stock",
+    "price": 6425
+  },
+  {
+    "img": "/assets/Pup05.jpg",
+    "breed": "Dachshund",
+    "sex": "Female",
+    "color": "BLK/TAN/DAPPLE",
+    "age": 1,
+    "tagNumber": "T155",
+    "birthDate": "09/02/19",
+    "arrivalDate": "11/05/19",
+    "availability": "In Stock",
+    "price": 2825
+  },
+  {
+    "img": "/assets/Pup06.jpg",
+    "breed": "Golden Retriever",
+    "sex": "Female",
+    "color": "Golden",
+    "age": 2,
+    "tagNumber": "T156",
+    "birthDate": "09/02/19",
+    "arrivalDate": "11/05/19",
+    "availability": "In Stock",
+    "price": 3025
+  },
+  {
+    "img": "/assets/Pup07.jpg",
+    "breed": "Havanese",
+    "sex": "Male",
+    "color": "Cream/White",
+    "age": 1,
+    "tagNumber": "T157",
+    "birthDate": "09/02/19",
+    "arrivalDate": "11/05/19",
+    "availability": "In Stock",
+    "price": 2725
+  },
+  {
+    "img": "/assets/Pup07.jpg",
+    "breed": "Havanese",
+    "sex": "Male",
+    "color": "BLACK/WHITE/TN",
+    "age": 1,
+    "tagNumber": "T158",
+    "birthDate": "09/02/19",
+    "arrivalDate": "11/05/19",
+    "availability": "In Stock",
+    "price": 2625
+  }
+]
